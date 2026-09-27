@@ -7,5 +7,3 @@ flowchart TD
     C -->|No| F[Registrado y advertencia]
     D -->|Sí| E[Registrado y OK]
     D -->|No| F
-    style E fill:#90EE90,stroke:#228B22,color:#000
-    style F fill:#FF6B6B,stroke:#CC0000,color:#000
